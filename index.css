@@ -1,0 +1,30 @@
+h1{
+    padding-left: 220px;
+    color: brown;
+}
+.sta, h1:hover{
+    color: greenyellow;
+
+}
+
+.fir{
+    position: absolute;
+    left: 20px;
+    width: 200px;
+    height: 50px;
+
+}
+.fir2{
+    position: absolute;
+    left: 400px;
+    top: -10px;
+    width: 50px;
+    height: 50px;    
+}
+.fir3 {
+    position: absolute;
+    right: 10px;
+    height: 50px;
+    
+    
+}
